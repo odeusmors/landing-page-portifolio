@@ -295,22 +295,22 @@ nav a:hover::before {
 }
 
 .slides .slide:nth-child(1) {
-  background-image: url(../img/first_bg.jpg);
+  background-image: url(../imgs/wallpaper-2.png);
 }
 .slides .slide:nth-child(2) {
-  background-image: url(../img/second_bg.jpg);
+  background-image: url(../imgs/wallpaper-2.png);
 }
 .slides .slide:nth-child(3) {
-  background-image: url(../img/third_bg.jpg);
+  background-image: url(../imgs/wallpaper-2.png);
 }
 .slides .slide:nth-child(4) {
-  background-image: url(../img/fourth_bg.jpg);
+  background-image: url(../imgs/wallpaper-2.png);
  }
 .slides .slide:nth-child(5) {
-  background-image: url(../img/fifth_bg.jpg);
+  background-image: url(../imgs/wallpaper-2.png);
 }
 .slides .slide:nth-child(6) {
-  background-image: url(../img/fourth_bg.jpg);
+  background-image: url(../imgs/wallpaper-2.png);
 }
 .slides .slide img {
   width: 100%;
@@ -443,12 +443,12 @@ nav a:hover::before {
 }
 
 .second-content p {
-	font-size: 13px;
-	color: #fff;
-	letter-spacing: 0.5px;
-	font-weight: 300;
-	line-height: 24px;
-	margin-bottom: 30px;
+	font-size: 20px;
+    color: #fff;
+    letter-spacing: 0.5px;
+    font-weight: 500;
+    line-height: 24px;
+    margin-bottom: 30px;
 }
 
 .second-content a {
