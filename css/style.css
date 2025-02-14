@@ -844,3 +844,24 @@ nav a:hover::before {
 	  	padding: 15px 20px;
 	}
 }
+
+
+.whatsapp-btn {
+	text-align: center; /* Alinha o botão ao centro */
+  }
+  
+  .whatsapp-btn a {
+	display: inline-block;
+    background-color: #0e632e;
+    color: #fff;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+  
+  .whatsapp-btn a:hover {
+	background-color: #13753e; /* Cor do WhatsApp quando o botão é passado o mouse */
+  }
+  
