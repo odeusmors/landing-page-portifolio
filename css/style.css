@@ -570,7 +570,7 @@ nav a:hover::before {
 	text-align: left;
 	position: absolute;
 	color: #fff;
-	background-color: rgba(0,0,0,0.95);
+	background-color: rgb(0 0 0 / 30%);
 	bottom: 0;
 	top: 0;
 	left: 0;
